@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-counter-apps/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-redux-counter-apps/static/js/main.ac61f8d7.chunk.js",
+    "main.js.map": "/react-redux-counter-apps/static/js/main.ac61f8d7.chunk.js.map",
+    "runtime-main.js": "/react-redux-counter-apps/static/js/runtime-main.3184a883.js",
+    "runtime-main.js.map": "/react-redux-counter-apps/static/js/runtime-main.3184a883.js.map",
+    "static/js/2.bb85c4f3.chunk.js": "/react-redux-counter-apps/static/js/2.bb85c4f3.chunk.js",
+    "static/js/2.bb85c4f3.chunk.js.map": "/react-redux-counter-apps/static/js/2.bb85c4f3.chunk.js.map",
+    "index.html": "/react-redux-counter-apps/index.html",
+    "precache-manifest.3e21cb6c8078a930deb9d8bd0d64c68f.js": "/react-redux-counter-apps/precache-manifest.3e21cb6c8078a930deb9d8bd0d64c68f.js",
+    "service-worker.js": "/react-redux-counter-apps/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-redux-counter-apps/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bb85c4f3.chunk.js.LICENSE.txt": "/react-redux-counter-apps/static/js/2.bb85c4f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3184a883.js",
+    "static/js/2.bb85c4f3.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ac61f8d7.chunk.js"
+  ]
+}
